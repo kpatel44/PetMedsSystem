@@ -7,12 +7,35 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Pet Meds System</h1>
+            <h1 class="text-center display-4 h1"><strong>Pet Meds System</strong></h1>
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #F8C8DC">
+                <div class=" collapse navbar-collapse justify-content-center" id="thebar">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="Vet.aspx">Vet</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="CustomerService.aspx">Customer Service Rep</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="Owner.aspx">Pet Owner</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="Dispensing.aspx">Dispensing Department</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+  
+            <footer style="position:absolute; bottom:0; text-align:center; width:100%;">Created By Khushi Patel</footer>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
             </asp:ContentPlaceHolder>
         </div>
     </form>
