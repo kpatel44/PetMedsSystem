@@ -6,7 +6,7 @@
     <br />
     <div class="card-group">
 
-        <div class="card border-dark mb-3">
+        <div class="card border-dark mb-3" style="background-color:lightgrey;">
             <div class="card-body">
                 <h5 class="card-title text-center">Send Emails</h5>
                 <label class="card-text" for="to" >To:</label>
@@ -22,7 +22,7 @@
             </div>
         </div>
         
-        <div class="card border-dark mb-3">
+        <div class="card border-dark mb-3" style="background-color:lightgrey;">
             <div class="card-body">
                 <h5 class="card-title text-center">View Orders</h5>
                 
@@ -49,9 +49,9 @@
             </div>
         </div>
 
-        <div class="card border-dark mb-3">
+        <div class="card border-dark mb-3" style="background-color:lightgrey;">
             <div class="card-body">
-                <h5 class="card-title text-center">Update New Prescription</h5>
+                <h5 class="card-title text-center">Update New Prescription Order</h5>
                 <label class="card-text" for="petname" >Pet Name:</label>
                 <input type="text" class="form-control" style="width:40%; height:8%;" id="petname"/>
                 <label class="card-text" for="update" >Prescription Update:</label>

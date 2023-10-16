@@ -6,7 +6,7 @@
     <br />
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
-            <div class="card border-dark mb-3">
+            <div class="card border-dark mb-3" style="background-color:lightgrey;">
                 <div class="card-body">
                     <h5>Message Vet</h5>
                     <label class="card-text" for="sender""> To: </label>
@@ -19,7 +19,7 @@
             </div>
         </div>
        <div class="col">
-            <div class="card border-dark mb-3">
+            <div class="card border-dark mb-3" style="background-color:lightgrey;">
                 <div class="card-body">
                     <h5>Update Medication Record</h5>
                     <label class="card-text" for="petname""> Pet Name: </label>
@@ -32,7 +32,7 @@
             </div>
        </div>
          <div class="col">
-             <div class="card border-dark mb-3">
+             <div class="card border-dark mb-3" style="background-color:lightgrey;">
                 <div class="card-body">
                     <h5>Ship Medication</h5>
                     <label class="card-text" for="petname2""> Pet Name: </label>
@@ -49,7 +49,7 @@
             </div>
         </div>
        <div class="col">
-             <div class="card border-dark mb-3">
+             <div class="card border-dark mb-3" style="background-color:lightgrey;">
                 <div class="card-body">
                     <h5>View Orders</h5>
                     <p>Order 1</p>
@@ -59,7 +59,7 @@
             </div>
        </div>
         <div class="col">
-             <div class="card border-dark mb-3">
+             <div class="card border-dark mb-3" style="background-color:lightgrey;">
                 <div class="card-body">
                     <h5>View Messages</h5>
                     <p>Message 1</p>

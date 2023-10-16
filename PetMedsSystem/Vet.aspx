@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h6 class="justify-content-center text-center">Currently viewing: Vet Page</h6>
     <br />
-    <div class="card justify-content-center border-dark mb-3" style="width:60%; float:left;">
+    <div class="card justify-content-center border-dark mb-3" style="width:60%; float:left; background-color:lavender">
         <h3 class="card-title text-center">Place Order</h3>
         <br />
         <div class="card-body" style="display:flex; flex-direction:row; justify-content:space-around; width:85%;">
@@ -40,9 +40,9 @@
         <a href="#" class="btn btn-primary justify-content-center text-center" style="width:20%;">Submit Order</a>
     </div>
 
-    <div class="card justify-content-center border-dark mb-3" style="width:40%;">
+    <div class="card justify-content-center border-dark mb-3" style="width:40%; background-color:mistyrose;">
         <h3 class="card-title text-center">View Messages</h3>
-        <p class="card-text"></p>
-        <p class="card-text"></p>
+        <p class="card-text">Message 1</p>
+        <p class="card-text">Message 2</p>
     </div>
 </asp:Content>
