@@ -37,7 +37,7 @@
                 <input type="text" class="form-control" style="width:40%; height:8%;" id="info"/>
             </div>
         </div>
-        <a href="#" class="btn btn-primary justify-content-center text-center" style="width:20%;">Submit Order</a>
+        <a href="#" class="btn btn-success justify-content-center text-center" style="width:20%;">Submit Order</a>
     </div>
 
     <div class="card justify-content-center border-dark mb-3" style="width:40%; background-color:mistyrose;">

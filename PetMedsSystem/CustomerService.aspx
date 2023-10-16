@@ -18,7 +18,7 @@
                 <label class="card-text" for="message" >Message:</label>
                 <input type="text" class="form-control" style="width:40%; height:8%;" id="message"/>
                 <br />
-                <a href="#" class="btn btn-primary justify-content-center text-center" style="width:40%; height:10%;">Send Email</a>                
+                <a href="#" class="btn btn-success justify-content-center text-center" style="width:40%; height:10%;">Send Email</a>                
             </div>
         </div>
         
@@ -60,7 +60,7 @@
                 <input type="text" class="form-control" style="width:40%; height:8%;" id="notes"/>
                 <label class="card-text" for="message" >Message:</label>
                 <br />
-                <a href="#" class="btn btn-primary justify-content-center text-center" style="width:40%; height:10%;">Update Prescription</a> 
+                <a href="#" class="btn btn-success justify-content-center text-center" style="width:40%; height:10%;">Update Prescription</a> 
 
 
             </div>
