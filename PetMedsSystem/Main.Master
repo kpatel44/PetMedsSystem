@@ -12,7 +12,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1 class="text-center display-4 h1"><strong>Pet Meds System</strong></h1>
+            <h1 class="text-center display-4 h1" style="font-family: Impact, fantasy;"><strong>Pet Meds System</strong></h1>
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #F8C8DC">
                 <div class=" collapse navbar-collapse justify-content-center" id="thebar">
                     <ul class="navbar-nav">
